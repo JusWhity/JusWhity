@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/DRNlL0p.png" alt="Profile Banner" width="100%">
+  <img src="https://imgur.com/8N4XWxZ.png" alt="Profile Banner" width="100%">
 </p>
 
 <h3 align="center">Digital Craftsman | Amature Developer | Linux Enthusiast</h3>
