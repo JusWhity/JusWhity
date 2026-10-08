@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31jyk5yi2ykelsg4f3jh4are52fy&theme=spotify&count=3&radius=15&footer=wave&bg_color=080808" alt="Spotify" />
-  </a>
+  <img src="Banner.jpg" alt="Profile Banner" width="100%">
 </p>
-<hr>
-<h3 align="center">Digital Craftsman | Amature | Linux Enthusiast</h3>
+
+<h3 align="center">Digital Craftsman | Amature Developer | Linux Enthusiast</h3>
 
 <!-- Social Media & Profiles (Usernames) -->
 <p align="center">
@@ -20,12 +18,9 @@
 </p>
 
 <p align="center">
-  I'm a begginer developer building my version of the digital world one step at a time. From developing Python GUI applications and automating workflows, to customizing Arch Linux and Windows tiling environments, I love turning complex ideas into clean, functional tools.
+  I'm a teenager building my version of the digital world one step at a time. From developing Python GUI apps and automating workflows, to customizing Arch Linux and Windows tiling environments, I enjoy turning complex ideas into clean, functional tools.
 </p>
 
-<hr>
-
-### 🧰 Languages and Tools
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:10px;"/> </a>
@@ -41,9 +36,15 @@
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40" /> </a>
 </p>
 
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31jyk5yi2ykelsg4f3jh4are52fy&theme=spotify&count=3&radius=15&footer=wave&bg_color=080808" alt="Spotify" />
+  </a>
+</p>
+
 <hr>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/JusWhity">
@@ -57,9 +58,3 @@
 </p>
 
 <hr>
-
-<details>
-  <summary><b>📖 My Coding Journey</b></summary>
-  <br>
-  I started off exploring technical setups, modding game environments, and tailoring operating systems to my preference. That curiosity naturally pushed me into programming. Now, I build desktop utilities using PySide6 and Tkinter, write CLI tools with Rich, and run local AI models using Ollama. Whether it's configuring a custom tiling window manager setup on Windows or running a clean Arch Linux desktop, I love the process of tweaking and creating software that works exactly how I want it to.
-</details>
