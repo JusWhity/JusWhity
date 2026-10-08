@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31jyk5yi2ykelsg4f3jh4are52fy&theme=spotify&count=3&radius=15&footer=wave&bg_color=080808" alt="Spotify" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31jyk5yi2ykelsg4f3jh4are52fy&theme=spotify&count=3&width=580&radius=15&duration=1&album=1&footer=wave&bg_color=060606" alt="Spotify" />
   </a>
 </p>
 
