@@ -34,6 +34,35 @@
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40" style="padding-right:10px;"/> </a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40" style="padding-right:10px;"/> </a>
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40" /> </a>
+  <p align="center">
+  <!-- Linux -->
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="padding-right:10px;"/>
+  </a>
+  <!-- SQLite -->
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" style="padding-right:10px;"/>
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40" style="padding-right:10px;"/>
+  </a>
+  <!-- npm -->
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="padding-right:10px;"/>
+  </a>
+  <!-- Cargo (Rust) -->
+  <a href="https://doc.rust-lang.org/cargo/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="cargo" width="40" height="40" style="padding-right:10px;"/>
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="padding-right:10px;"/>
+  </a>
+  <!-- NGINX -->
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="padding-right:10px;"/>
+  </a>
 </p>
 
 <p align="center">
