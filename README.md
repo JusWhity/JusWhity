@@ -6,9 +6,9 @@
 
 <!-- Social Media & Profiles (Usernames) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-JusWhity-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  <img src="https://img.shields.io/badge/Spotify-JusWhity-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  <img src="https://img.shields.io/badge/Steam-JusWhity-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <a href="https://discord.com/users/1136368262247088130" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-JusWhity-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://open.spotify.com/user/31jyk5yi2ykelsg4f3jh4are52fy?si=da489e6eac0749aa" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spotify-JusWhity-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <a href="https://steamcommunity.com/profiles/76561199549066303/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Steam-JusWhity-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
 </p>
 
 <!-- GitHub Badges -->
