@@ -2,7 +2,7 @@
   <img src="https://imgur.com/8N4XWxZ.png" alt="Profile Banner" width="100%">
 </p>
 
-<h3 align="center">Digital Craftsman | Amature Developer | Linux Enthusiast</h3>
+<h3 align="center">Digital Craftsman | Self-Taught Developer | Linux Enthusiast</h3>
 
 <!-- Social Media & Profiles (Usernames) -->
 <p align="center">
